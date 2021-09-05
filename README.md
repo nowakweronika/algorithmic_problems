@@ -12,3 +12,6 @@ Your program is to use the brute-force approach in order to find the Answer to L
 
 ### 4. [Roman Numerals Decoder](https://www.codewars.com/kata/51b6249c4612257ac0000005/train/cpp) from [Codewars](https://www.codewars.com/) - RomanNumeralsDecoder.cpp.
 Create a function that takes a Roman numeral as its argument and returns its value as a numeric decimal integer. You don't need to validate the form of the Roman numeral.
+
+### 5. [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e/train/cpp) from [Codewars](https://www.codewars.com/) - DisemvowelTrolls.cpp.
+Your task is to write a function that takes a string and return a new string with all vowels removed.
