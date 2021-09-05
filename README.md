@@ -9,3 +9,6 @@ You can assume all values in the array are numbers.
 
 ### 3. [Life, the Universe, and Everything](https://www.spoj.com/problems/TEST/) from [SPOJ](https://pl.spoj.com/) - life_universe_everything.cpp.
 Your program is to use the brute-force approach in order to find the Answer to Life, the Universe, and Everything. More precisely... rewrite small numbers from input to output. Stop processing input after reading in the number 42. All numbers at input are integers of one or two digits.
+
+### 4. [Roman Numerals Decoder](https://www.codewars.com/kata/51b6249c4612257ac0000005/train/cpp) from [Codewars](https://www.codewars.com/) - RomanNumeralsDecoder.cpp.
+Create a function that takes a Roman numeral as its argument and returns its value as a numeric decimal integer. You don't need to validate the form of the Roman numeral.
